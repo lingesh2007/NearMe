@@ -1,6 +1,6 @@
 # Ex04 Places Around Me
-## Date: 8.10.2025
-
+## Date: 08.10.2025
+## Name: LINGESH D
 ## AIM
 To develop a website to display details about the places around my house.
 
@@ -96,10 +96,30 @@ SVEC
 <img src="SVCE.webp">
 </body>
 </html>
+
+REC
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body bgcolor="red">
+       <h1 align="center" >rajalakshmi Engineering College</h1>
+   <p align="center"> Rajalakshmi Engineering College (REC), located near Chennai, is an autonomous, AICTE-approved private institution established in 1997 by the Rajalakshmi Educational Trust, offering various undergraduate and postgraduate engineering, technology, and management programs. Affiliated with Anna University, REC holds prestigious accreditations, including NAAC A++, and has received recognition from the UGC and DSIR/SIRO. The college is recognized for its strong infrastructure, faculty, research centers, and various student amenities.</p>
+<img src="rec.jpg">
+</body>
+</html>
 ```
 
 ## OUTPUT
 ![alt text](<Screenshot 2025-10-08 140422.png>)
+![alt text](lingesh/mapapp/static/cit.jpg)
+![alt text](lingesh/mapapp/static/pec.jpg)
+![alt text](lingesh/mapapp/static/SEC.jpg)
+![alt text](lingesh/mapapp/static/SVCE.webp)
+![alt text](lingesh/mapapp/static/rec.jpg)
 
 
 
