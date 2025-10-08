@@ -36,6 +36,66 @@ Execute the programs and publish them.
     <area target="_blank" alt="CIT" title="CIT" href="CIT.html" src="cit.jpg" coords="1089,812,967,740" shape="rect">
     <area target="_blank" alt="PEC" title="PEC" href="PEC.html"  src="pec.jpg"  coords="601,109,710,187" shape="rect">
 </map>
+
+CIT
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body  bgcolor="yellow">
+     <h1 align="center" >Saveetha Engineering College</h1>   
+    <p>Chennai Institute of Technology (CIT) is a private engineering college located in Kundrathur, Chennai, Tamil Nadu, India. Established in 2010, the institution is affiliated with Anna University and approved by the All India Council for Technical Education (AICTE).The college operates under the Parthasarathy Seeniammal Educational Trust and offers undergraduate, postgraduate, and doctoral programs in engineering and technology disciplines.</p>
+<img src="cit.jpg">
+</body>
+</html>
+
+PEC
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body bgcolor="green">
+    <h1 align="center" >Prathyusha Engineering College</h1>
+   <p> Prathyusha Engineering College (PEC) is an autonomous, self-financed Telugu minority institution established in 2001 in Chennai, affiliated with Anna University. Located in a serene environment near Chennai, the college offers various undergraduate and postgraduate engineering programs, including B.Tech and Ph.D. degrees. PEC is approved by AICTE, accredited by NBA and NAAC, and holds ISO certification, indicating a focus on quality technical education and facilities, including modern labs and a green campus.</p> 
+<img src="pec.jpg">
+</body>
+</html>
+
+SEC
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body bgcolor="aqua">
+    <h1 align="center" >Saveetha Engineering College</h1>
+    <p align="center">Saveetha Engineering College (SEC) is a private institution in Chennai, established in 2001, offering undergraduate, postgraduate, and doctoral programs in engineering, management, and technology. Affiliated with Anna University, SEC holds an 'A' Grade accreditation from NAAC, is approved by the UGC, and is recognized as a Scientific and Industrial Research Organization (SIRO) by the DSIR. The college emphasizes a holistic approach to education, featuring numerous centers of excellence in areas like AI, robotics, and cybersecurity, and a strong focus on industry-aligned project work.</p> 
+<img src="SEC.jpg">
+</body>
+</html>
+
+SVEC
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body bgcolor="orange">
+    <h1 align="center">Sri Venkateswara College of Engineering</h1>
+   <p> Sri Venkateswara College of Engineering (SVCE) Tirupati is a private engineering college established in 2007, located on Karakambadi Road in Tirupati, Andhra Pradesh. The college offers various undergraduate and postgraduate engineering programs and is affiliated with Jawaharlal Nehru Technological University, Anantapur (JNTUA). SVCE is recognized by the AICTE and aims to provide technical education, research, and services, with specialties in Computer Science, Mechanical Engineering, and other fields.</p> 
+<img src="SVCE.webp">
+</body>
+</html>
 ```
 
 ## OUTPUT
